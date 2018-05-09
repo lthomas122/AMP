@@ -14,5 +14,5 @@ Please ensure you have installed aforementioned dependencies above before going 
 1. Navigate to AMP project folder in cmd
 2. Run `http-server`
 3. Run `json-server --watch products.json`
-4. Go to the [AMP file](hellworld.amp.html) and change the `<amp-list>` src attribute on `line 116` to `//localhost:3000` or whatever port you are running the database on `json-server`
+4. Go to the [AMP file](hellworld.amp.html#L116) and change the `<amp-list>` src attribute on `line 116` to `//localhost:3000` or whatever port you are running the database on `json-server`
 5. Go to `localhost:8080` or whatever port you are running on the `http-server`
