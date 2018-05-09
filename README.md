@@ -3,9 +3,9 @@ A basic product list page that uses AMP, generated using simple content made fro
 
 ### What you need to run it :floppy_disk:
 You will need the following dependencies installed to run this project:
-- **node/npm** for running localhost - (https://nodejs.org/en/download/)
-- **http-server** (install by running `npm install -g http-server`) [Package URL] (https://www.npmjs.com/package/http-server)
-- **json-server** (install by running `npm install -g json-server`) [Package URL] (https://www.npmjs.com/package/json-server)
+- **node/npm** for running localhost - [Download](https://nodejs.org/en/download/)
+- **http-server** (install by running `npm install -g http-server`) [[Package URL](https://www.npmjs.com/package/http-server)]
+- **json-server** (install by running `npm install -g json-server`) [[Package URL](https://www.npmjs.com/package/json-server)]
 
 > **TIP:** You may want to update npm, http-server and json-server after installing them.
 
