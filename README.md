@@ -3,9 +3,9 @@ A basic product list page that uses AMP, generated using simple content made fro
 
 ### What you need to run it :floppy_disk:
 You will need the following dependencies installed to run this project:
-- **node/npm** for running localhost
-- **http-server** (install by running `npm install -g http-server`)
-- **json-server** (install by running `npm install -g json-server`)
+- **node/npm** for running localhost - (https://nodejs.org/en/download/)
+- **http-server** (install by running `npm install -g http-server`) [Package URL] (https://www.npmjs.com/package/http-server)
+- **json-server** (install by running `npm install -g json-server`) [Package URL] (https://www.npmjs.com/package/json-server)
 
 > **TIP:** You may want to update npm, http-server and json-server after installing them.
 
@@ -14,5 +14,5 @@ Please ensure you have installed aforementioned dependencies above before going 
 1. Navigate to AMP project folder in cmd
 2. Run `http-server`
 3. Run `json-server --watch products.json`
-4. Change the `<amp-list>` src attribute on `line 116` to `//localhost:3000` or whatever port you are running the database on `json-server`
+4. Go to the [AMP file](hellworld.amp.html) and change the `<amp-list>` src attribute on `line 116` to `//localhost:3000` or whatever port you are running the database on `json-server`
 5. Go to `localhost:8080` or whatever port you are running on the `http-server`
