@@ -1,15 +1,15 @@
-# PLP on AMP
+# PLP on AMP :zap:
 A basic product list page that uses AMP, generated using simple content made from a Peerius JSON file.
 
-### What you need to run it
+### What you need to run it :floppy_disk:
 You will need the following dependencies installed to run this project:
 - **node/npm** for running localhost
 - **http-server** (install by running `npm install -g http-server`)
 - **json-server** (install by running `npm install -g json-server`)
 
-> **TIP:** You may want to update npm, http-server and json-server after installing them. 
+> **TIP:** You may want to update npm, http-server and json-server after installing them.
 
-### How to get it running
+### How to get it running :running:
 Please ensure you have installed aforementioned dependencies above before going any further.
 1. Navigate to AMP project folder in cmd
 2. Run `http-server`
